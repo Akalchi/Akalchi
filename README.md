@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Alejandra 👋
+# Hi! I'm Alejandra 👋
 
 </div>
 <div align="center">
@@ -9,35 +9,35 @@
   </a>
 </div>
 
-### 🚀 **Desarrolladora Web Full Stack en Formación** 
+### 🚀 **Full Stack Web Developer in Training**
 
-Actualmente estoy cursando un **Bootcamp Full-stack** donde estoy aprendiendo a trabajar con **JavaScript**, **React**, **HTML** y **CSS**. Estoy mejorando mis habilidades tanto en el **Frontend** como en el **Backend**.
+I am currently attending a **Full-Stack Bootcamp**, where I am learning to work with **JavaScript**, **React**, **HTML**, and **CSS**. I am improving my skills in both **Frontend** and **Backend** development.
 
-## 💻 **Tecnologías que manejo** (Actualmente en formación)
+## 💻 **Technologies I Use** (Currently in Training)
 
 - **Frontend**:
   - **JavaScript** (Vanilla JS, ES6+)
-  - **React** 
-  - **HTML5** & **CSS3** (Maquetado, Flexbox, Grid, Animaciones)
+  - **React**
+  - **HTML5** & **CSS3** (Layout, Flexbox, Grid, Animations)
 
-## 📈 **Mis estadísticas de GitHub**
+## 📈 **My GitHub Stats**
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Akalchi&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Akalchi&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
 
-## 📱 **Conecta conmigo**
+## 📱 **Connect with Me**
 
-- [LinkedIn](https://www.linkedin.com/in/alejandra-fern%C3%A1ndez-aa27b7269/) 💼
-- [Correo Electrónico] alejandrafdez1699@gmail.com 📧
+- [LinkedIn](https://www.linkedin.com/in/alejandra-fern%C3%A1ndez-aa27b7269/) 💼  
+- [Email] alejandrafdez1699@gmail.com 📧
 
 ---
 
-### **🔧 Herramientas que uso en el Bootcamp**
+### **🔧 Tools I Use in the Bootcamp**
 
-- **Editor**: Visual Studio Code ✍️
-- **Control de versiones**: Git + GitHub 🔀
+- **Editor**: Visual Studio Code ✍️  
+- **Version Control**: Git + GitHub 🔀  
+
 ---
 
-## 📍 **Ubicación**: [Asturias, España]
+## 📍 **Location**: [Asturias, Spain]
 
-Gracias por visitar mi perfil. ¡Estoy abierta a nuevas colaboraciones y proyectos! 🙌
-
+Thank you for visiting my profile. I am open to new collaborations and projects! 🙌
