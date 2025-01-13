@@ -1,6 +1,6 @@
 # ¡Hola! Soy [Alejandra] 👋
 
-### 🚀 **Desarrolladora Web Full Stack en Formación** | **Apasionada por el Desarrollo de Software** | **Siempre Aprendiendo Nuevas Tecnologías**
+### 🚀 **Desarrolladora Web Full Stack en Formación** 
 
 Actualmente estoy cursando un **Bootcamp Full-stack** donde estoy aprendiendo a trabajar con **JavaScript**, **React**, **HTML** y **CSS**. Estoy mejorando mis habilidades tanto en el **Frontend** como en el **Backend**.
 
@@ -13,7 +13,7 @@ Actualmente estoy cursando un **Bootcamp Full-stack** donde estoy aprendiendo a 
 
 ## 📈 **Mis estadísticas de GitHub**
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=tu-Akalchi&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
 
 ## 📱 **Conecta conmigo**
 
