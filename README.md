@@ -1,5 +1,7 @@
 # ¡Hola! Soy [Alejandra] 👋
 
+![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+
 ### 🚀 **Desarrolladora Web Full Stack en Formación** 
 
 Actualmente estoy cursando un **Bootcamp Full-stack** donde estoy aprendiendo a trabajar con **JavaScript**, **React**, **HTML** y **CSS**. Estoy mejorando mis habilidades tanto en el **Frontend** como en el **Backend**.
