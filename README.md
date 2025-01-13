@@ -1,6 +1,10 @@
 # ¡Hola! Soy Alejandra 👋
 
-![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+<div align="center">
+  <a href="https://giphy.com/gifs/inpulsedm-l3vReH0vUdPOatiBa" target="_blank">
+    <img src="https://media.giphy.com/media/l3vReH0vUdPOatiBa/giphy.gif" alt="Coding GIF" style="max-width: 100%;">
+  </a>
+</div>
 
 ### 🚀 **Desarrolladora Web Full Stack en Formación** 
 
