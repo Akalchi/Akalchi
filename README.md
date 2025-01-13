@@ -1,5 +1,8 @@
+<div align="center">
+
 # ¡Hola! Soy Alejandra 👋
 
+</div>
 <div align="center">
   <a href="https://giphy.com/gifs/inpulsedm-l3vReH0vUdPOatiBa" target="_blank">
     <img src="https://media.giphy.com/media/l3vReH0vUdPOatiBa/giphy.gif" alt="Coding GIF" style="max-width: 100%;">
