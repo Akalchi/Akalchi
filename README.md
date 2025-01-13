@@ -20,7 +20,7 @@ Actualmente estoy cursando un **Bootcamp Full-stack** donde estoy aprendiendo a 
 ## 📱 **Conecta conmigo**
 
 - [LinkedIn](https://www.linkedin.com/in/alejandra-fern%C3%A1ndez-aa27b7269/) 💼
-- [Correo Electrónico](alejandrafdez1699@gmail.com) 📧
+- [Correo Electrónico] alejandrafdez1699@gmail.com 📧
 
 ---
 
