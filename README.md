@@ -10,7 +10,7 @@ Actualmente estoy cursando un **Bootcamp Full-stack** donde estoy aprendiendo a 
 
 - **Frontend**:
   - **JavaScript** (Vanilla JS, ES6+)
-  - **React** [(Componentes, Hooks, Estado, Router)]: # 
+  - **React** 
   - **HTML5** & **CSS3** (Maquetado, Flexbox, Grid, Animaciones)
 
 ## 📈 **Mis estadísticas de GitHub**
