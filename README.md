@@ -13,7 +13,7 @@ Actualmente estoy cursando un **Bootcamp Full-stack** donde estoy aprendiendo a 
 
 ## 📈 **Mis estadísticas de GitHub**
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=tu-Akalchi&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Akalchi&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
 
 ## 📱 **Conecta conmigo**
 
