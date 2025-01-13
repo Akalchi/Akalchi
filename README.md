@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! Soy [Alejandra] 👋
 
-<!--
-**Akalchi/Akalchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 **Desarrolladora Web Full Stack en Formación** | **Apasionada por el Desarrollo de Software** | **Siempre Aprendiendo Nuevas Tecnologías**
 
-Here are some ideas to get you started:
+Actualmente estoy cursando un **Bootcamp Full-stack** donde estoy aprendiendo a trabajar con **JavaScript**, **React**, **HTML** y **CSS**. Estoy mejorando mis habilidades tanto en el **Frontend** como en el **Backend**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 **Tecnologías que manejo** (Actualmente en formación)
+
+- **Frontend**:
+  - **JavaScript** (Vanilla JS, ES6+)
+  - **React** (Componentes, Hooks, Estado, Router)
+  - **HTML5** & **CSS3** (Maquetado, Flexbox, Grid, Animaciones)
+
+## 📈 **Mis estadísticas de GitHub**
+
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
+
+## 📱 **Conecta conmigo**
+
+- [LinkedIn](https://www.linkedin.com/in/alejandra-fern%C3%A1ndez-aa27b7269/) 💼
+- [Correo Electrónico](alejandrafdez1699@gmail.com) 📧
+
+---
+
+### **🔧 Herramientas que uso en el Bootcamp**
+
+- **Editor**: Visual Studio Code ✍️
+- **Control de versiones**: Git + GitHub 🔀
+---
+
+## 📍 **Ubicación**: [Asturias, España]
+
+Gracias por visitar mi perfil. ¡Estoy abierta a nuevas colaboraciones y proyectos! 🙌
+
