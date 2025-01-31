@@ -19,6 +19,8 @@ I am currently attending a **Full-Stack Bootcamp**, where I am learning to work 
   - **JavaScript** (Vanilla JS, ES6+)
   - **React**
   - **HTML5** & **CSS3** (Layout, Flexbox, Grid, Animations)
+- **Backend**:
+  - **Java**
 
 ## 📈 **My GitHub Stats**
 
