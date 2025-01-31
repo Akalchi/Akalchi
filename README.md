@@ -29,7 +29,7 @@ I am currently attending a **Full-Stack Bootcamp**, where I am learning to work 
 ## 📱 **Connect with Me**
 
 - [LinkedIn](https://www.linkedin.com/in/alejandra-fern%C3%A1ndez-aa27b7269/) 💼  
-- [Email] alejandrafdez1699@gmail.com 📧
+- [Email]alejandrafdez1699@gmail.com 📧
 
 ---
 
